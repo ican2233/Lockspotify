@@ -16,5 +16,11 @@
     "key": "acil",
     "expiresAt": "2030-06-15",
     "allowOffline": true
+  },
+  {
+    "id": "null",
+    "key": "test",
+    "expiresAt": "2025-05-23",
+    "allowOffline": true
   }
 ]
